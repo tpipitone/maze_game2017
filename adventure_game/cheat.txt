@@ -1,0 +1,53 @@
+take backpack
+go south
+take crowbar
+go west
+go north
+go east
+use crowbar
+go east
+go north
+take knife
+take mallet
+take spoon
+go south
+go south
+use mallet
+use knife
+take match
+take fire extinguisher
+go east
+go south
+use fire extinguisher
+go south
+go east
+go south
+open cabinet
+take screwdriver
+take gas can
+go north
+use screwdriver
+go east
+throw spoon
+go east
+hide
+take gun
+go east
+go north
+go north
+take chainsaw
+go south
+go east
+use chainsaw
+use gas can
+use chainsaw
+go east
+take ammunition
+go north
+use gun
+use crowbar
+use knife
+go north
+use gas can
+use match
+go north
